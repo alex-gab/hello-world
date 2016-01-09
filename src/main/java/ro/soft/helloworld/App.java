@@ -11,5 +11,6 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println( "Hello World! test sonar warn" );
         System.out.println( "Hello World! test sonar warn 1" );
+	System.out.println( "Hello World! test sonar warn 2" );
     }
 }
